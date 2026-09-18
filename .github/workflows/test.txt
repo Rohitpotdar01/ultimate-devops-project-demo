@@ -88,6 +88,4 @@ jobs:
                 git config --global user.email "rohitpotdar55@gmail.com"
                 git add kubernetes/productcatalog/deploy.yaml   
                 git commit -m "[CI]"update product catalog image tag"
-                git push        
-
-            #ntg to add here so tying just for commit testing
+                git push
